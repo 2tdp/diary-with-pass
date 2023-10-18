@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="30dp"
+    android:height="30dp"
+    android:viewportWidth="30"
+    android:viewportHeight="30">
+    <path
+        android:name="notification1"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M0 8c0-4.42 3.58-8 8-8h14c4.42 0 8 3.58 8 8v14c0 4.42-3.58 8-8 8h-14c-4.42 0-8-3.58-8-8z"/>
+    <group>
+        <path
+            android:name="notification2"
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M21.05 15.27V13.4c0-2.73-1.8-5.04-4.3-5.8V6.76C16.76 5.79 15.98 5 15 5s-1.76 0.79-1.76 1.76V7.6c-2.48 0.76-4.3 3.07-4.3 5.8v1.87c0 2.4-0.9 4.67-2.57 6.4-0.16 0.16-0.2 0.41-0.11 0.63 0.09 0.22 0.3 0.36 0.54 0.36h5.33C12.4 23.99 13.59 25 15 25c1.41 0 2.6-1 2.87-2.34h5.33c0.24 0 0.45-0.14 0.54-0.36 0.1-0.22 0.05-0.47-0.11-0.64-1.66-1.72-2.58-4-2.58-6.4Zm-6.64-8.51c0-0.33 0.27-0.59 0.59-0.59 0.32 0 0.59 0.26 0.59 0.59v0.61L15 7.34c-0.2 0-0.4 0.01-0.59 0.03V6.76ZM15 23.83c-0.76 0-1.42-0.5-1.66-1.17h3.32c-0.24 0.68-0.9 1.17-1.66 1.17Zm-6.94-2.35c1.33-1.78 2.06-3.95 2.06-6.21V13.4c0-2.7 2.19-4.88 4.88-4.88 2.7 0 4.88 2.19 4.88 4.88v1.87c0 2.26 0.73 4.43 2.06 6.21H8.06Z"/>
+        <path
+            android:name="notification3"
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M22.62 13.4c0 0.32 0.26 0.58 0.58 0.58 0.33 0 0.59-0.26 0.59-0.58 0-2.35-0.92-4.56-2.58-6.22-0.22-0.22-0.6-0.23-0.82 0-0.23 0.23-0.23 0.6 0 0.83 1.43 1.44 2.23 3.35 2.23 5.39Z"/>
+        <path
+            android:name="notification4"
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M6.8 13.98c0.32 0 0.58-0.26 0.58-0.58 0-2.04 0.8-3.95 2.23-5.39 0.23-0.23 0.23-0.6 0-0.83-0.22-0.22-0.6-0.22-0.82 0C7.13 8.84 6.2 11.05 6.2 13.4c0 0.32 0.26 0.58 0.59 0.58Z"/>
+    </group>
+</vector>

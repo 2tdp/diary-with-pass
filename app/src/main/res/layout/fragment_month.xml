@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/daysContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".view.FragmentMonthFragment">
+
+    <include layout="@layout/roboto_calendar_week_1" />
+
+    <include layout="@layout/roboto_calendar_week_2" />
+
+    <include layout="@layout/roboto_calendar_week_3" />
+
+    <include layout="@layout/roboto_calendar_week_4" />
+
+    <include layout="@layout/roboto_calendar_week_5" />
+
+    <include layout="@layout/roboto_calendar_week_6" />
+</LinearLayout>

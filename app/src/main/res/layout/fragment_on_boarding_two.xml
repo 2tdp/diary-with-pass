@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".fragment.onboarding.OnBoardingFragment">
+
+    <LinearLayout
+        android:id="@+id/onBoardingTwo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_210sdp"
+            android:scaleType="fitXY"
+            android:src="@drawable/im_home" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:fontFamily="@font/poppins_regular"
+            android:text="@string/des_on_boarding"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_15ssp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:background="@drawable/border_stroke"
+            android:orientation="horizontal"
+            android:padding="@dimen/_1sdp">
+
+            <ImageView
+                android:layout_width="@dimen/_84sdp"
+                android:layout_height="@dimen/_84sdp"
+                android:background="@drawable/boder_background_splash"
+                android:padding="@dimen/_10sdp"
+                android:src="@drawable/im_onboarding_two_1" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:orientation="vertical"
+                android:padding="@dimen/_5sdp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins_medium"
+                    android:text="@string/des_on_boarding_1"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins_regular"
+                    android:text="@string/des_on_boarding_2"
+                    android:textColor="@color/gray_2"
+                    android:textSize="@dimen/_13ssp" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:background="@drawable/border_stroke"
+            android:orientation="horizontal"
+            android:padding="@dimen/_1sdp">
+
+            <ImageView
+                android:layout_width="@dimen/_84sdp"
+                android:layout_height="@dimen/_84sdp"
+                android:background="@drawable/boder_background_splash"
+                android:padding="@dimen/_10sdp"
+                android:src="@drawable/im_onboarding_two_2" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:orientation="vertical"
+                android:padding="@dimen/_5sdp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins_medium"
+                    android:text="@string/des_on_boarding_3"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_13ssp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins_regular"
+                    android:text="@string/des_on_boarding_4"
+                    android:textColor="@color/gray_2"
+                    android:textSize="@dimen/_13ssp" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

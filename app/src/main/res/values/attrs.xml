@@ -1,0 +1,54 @@
+<resources>
+    <declare-styleable name="AppWidgetAttrs">
+        <attr name="appWidgetPadding" format="dimension" />
+        <attr name="appWidgetInnerRadius" format="dimension" />
+        <attr name="appWidgetRadius" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="PatternIndicatorView">
+        <attr name="piv_color" format="color|reference" />
+        <attr name="piv_hitColor" format="color|reference" />
+        <attr name="piv_errorColor" format="color|reference" />
+        <attr name="piv_fillColor" format="color|reference" />
+        <attr name="piv_lineWidth" format="dimension|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="FreeDrawView">
+        <attr name="paintColor" format="color" />
+        <attr name="paintWidth" format="dimension" />
+        <attr name="paintAlpha" format="integer" />
+        <attr name="resizeBehaviour" format="enum">
+            <enum name="clear" value="0" />
+            <enum name="fitXY" value="1" />
+            <enum name="crop" value="2" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="Fingerprint">
+        <attr name="fingerprintScanningColor" format="color" />
+        <attr name="fingerprintSuccessColor" format="color" />
+        <attr name="fingerprintErrorColor" format="color" />
+
+        <attr name="circleScanningColor" format="color" />
+        <attr name="circleSuccessColor" format="color" />
+        <attr name="circleErrorColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="UltraViewPager">
+        <attr name="upv_autoscroll" format="integer" />
+        <attr name="upv_infiniteloop" format="boolean" />
+        <attr name="upv_ratio" format="float" />
+        <attr name="upv_scrollmode" format="enum">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+        <attr name="upv_disablescroll" format="enum">
+            <enum name="none" value="0" />
+            <enum name="backward" value="1" />
+            <enum name="forward" value="2" />
+        </attr>
+        <attr name="upv_multiscreen" format="float" />
+        <attr name="upv_automeasure" format="boolean" />
+        <attr name="upv_itemratio" format="float" />
+    </declare-styleable>
+</resources>

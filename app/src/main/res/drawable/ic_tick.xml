@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <group>
+        <path
+            android:name="tick1"
+            android:fillColor="#FF383838"
+            android:pathData="M0.3 14.94l4.59 4.58c1.29 1.29 3.37 1.29 4.66 0L23.69 5.38c0.42-0.44 0.41-1.13-0.03-1.56-0.42-0.4-1.1-0.4-1.52 0L8 17.97c-0.43 0.42-1.13 0.42-1.56 0l-4.58-4.58c-0.43-0.43-1.13-0.41-1.55 0.02-0.41 0.43-0.41 1.1 0 1.53Z"/>
+    </group>
+</vector>

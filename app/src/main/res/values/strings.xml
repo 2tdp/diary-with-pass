@@ -1,0 +1,237 @@
+<resources>
+    <string name="app_name">Secret Diary: Diary with lock</string>
+
+    <string name="diary">Diary</string>
+    <string name="menu">Menu</string>
+    <string name="save">Save</string>
+    <string name="done">Done</string>
+    <string name="home">Home</string>
+    <string name="calendar">Calendar</string>
+    <string name="customize">Customize</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="all">All</string>
+    <string name="del">Delete</string>
+    <string name="share">Share</string>
+    <string name="preview">Preview</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="see_all">See All</string>
+    <string name="edit_diary">Edit Diary</string>
+    <string name="theme">Theme</string>
+    <string name="error">Error</string>
+    <string name="confirm">Confirm</string>
+    <string name="apply">Apply</string>
+    <string name="sorry">Sorry!</string>
+    <string name="choose_style">Choose Style</string>
+    <string name="no_internet">No Internet.\nCheck your connection!</string>
+
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="crop">Crop</string>
+    <string name="error_crop">Error Crop</string>
+    <string name="finish">Press 1 more time to exit</string>
+
+    //splash
+    <string name="splash_continue">Continue</string>
+    <string name="splash_get_start">Get Started</string>
+
+    //vip
+    <string name="you_need_upgrade_to_vip">You need upgrade to VIP</string>
+    <string name="start_like_a_pro">Start Like A Pro</string>
+    <string name="unlock_all_feature">Unlock All Feature</string>
+    <string name="yearly">Yearly</string>
+    <string name="monthly">Monthly</string>
+    <string name="weekly">Weekly</string>
+    <string name="price_yearly">Then</string>
+    <string name="price_monthly">Then</string>
+    <string name="price_lifetime">Then</string>
+    <string name="upgrade_premium">Upgrade Premium</string>
+    <string name="subscription_will_auto_renew_cancel_anytime">If the themes is not unlocked after payment, You can go to "Store > Restore". You\'ll automatically be charged each renewal period depending on your subscription. You can unsubscribe at anytime.</string>
+
+    //permission
+    <string name="rp_3">To work, \"Diary\" app needs access to your media, camera and microphone.</string>
+    <string name="title_dialog_check_permission">Permit Usage Access</string>
+    <string name="check_one">Write Storage</string>
+    <string name="check_two">Camera</string>
+    <string name="check_three">Microphone</string>
+    <string name="allow_permission">Allow Permission</string>
+
+    //onBoarding
+    <string name="des_on_boarding">Welcome To Your Diary</string>
+    <string name="des_on_boarding_1">Save Moment Of Your Life</string>
+    <string name="des_on_boarding_2">Watch How You Change And Grow</string>
+    <string name="des_on_boarding_3">Keep Your Thoughts And Ideas Private</string>
+    <string name="des_on_boarding_4">The Diary Is For Your Eyes Only</string>
+
+    //Home
+    <string name="tap_to_start_your_first_entry">Tap To Start Your First Diary!</string>
+    <string name="oldest_first">Oldest first</string>
+    <string name="latest_first">Latest first</string>
+    <string name="recent_memories">Recent Memories</string>
+    <string name="recent_diary">Recent Diary</string>
+    <string name="del_diary">Delete Diary</string>
+    <string name="are_you_sure_want_to_delete_this_diary">Are you sure want to delete this diary?</string>
+
+    //addDiary
+    <string name="add_photo">Add Photo</string>
+    <string name="write">Write</string>
+    <string name="pause">Pause</string>
+    <string name="action_continue">Continue</string>
+    <string name="stop">Stop</string>
+    <string name="day">Day</string>
+    <string name="title">Title</string>
+    <string name="hint_add_1">Add a title to this diary</string>
+    <string name="content">Diary Content</string>
+    <string name="hint_add_2">Write your story here…</string>
+    <string name="custom_cover">Custom Cover</string>
+    <string name="camera">Camera</string>
+    <string name="tap_to_record">Tap To Record</string>
+    <string name="err_record">Can\'t record!</string>
+    <string name="time_record">00:00</string>
+    <string name="name_your_recording">Name Your Recording</string>
+    <string name="enter_your_name_recording">Enter your name recording</string>
+    <string name="save_your_diary">Save Your Diary</string>
+    <string name="would_you_like_to_save_this_diary">Would you like to save this diary?</string>
+    <string name="cant_play_audio">can\'t play audio!</string>
+
+    //Search
+    <string name="search">Search</string>
+    <string name="nothing_to_search">Nothing To Search!</string>
+    <string name="search_your_memories">Search Your Memories…</string>
+
+    //passcode
+    <string name="passcode">Passcode</string>
+    <string name="passwords">Passwords</string>
+    <string name="pincode">Pincode</string>
+    <string name="pattern">Pattern</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="signature">Signature</string>
+    <string name="you_need_create_a_passcode">You Need To Create Any Passcode</string>
+    <string name="set_a_passcode_for_your_diary">Set A Passcode For Your Diary</string>
+    <string name="use_cover_photo">Use cover photo</string>
+    <string name="allows_using_images_to_create_cover_photos">Allow to use the image to create cover photo</string>
+    <string name="choose_your_passcode_style">Choose Your Passcode Style</string>
+    <string name="select_the_passcode_you_want_to_change">Select The Passcode You Want To Change</string>
+    <string name="enter_your_passcode">Enter Your Passcode</string>
+    <string name="error_passcode">Error: Passcode Do Not Match</string>
+    <string name="set_your_password">Set your Password</string>
+    <string name="enter_current_password">Enter Current Password</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="confirm_your_password">Confirm your Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="error_passwords">Error: Passwords Do Not Match</string>
+    <string name="error_current_password">Error: Current Password Do Not Match</string>
+    <string name="error_pincode">Error: Pincode Do Not Match</string>
+    <string name="wrong_password_please_try_again">Wrong Password, Please Try Again</string>
+    <string name="error_current_pincode">Error: Current Pincode Do Not Match</string>
+    <string name="set_your_pincode">Set Your Pincode</string>
+    <string name="current_pin_code">Enter Current Pincode</string>
+    <string name="set_your_pattern">Set Your Pattern</string>
+    <string name="current_pattern">Enter Current Pattern</string>
+    <string name="error_pattern">Error: Pattern Do Not Match</string>
+    <string name="error_Current_pattern">Error: Current Pattern Do Not Match</string>
+    <string name="enter_your_pattern">Enter Your Pattern</string>
+    <string name="set_your_signature">Set Your Signature</string>
+    <string name="current_signature">Enter Current Signature</string>
+    <string name="confirm_your_pincode">Confirm Your Pincode</string>
+    <string name="confirm_your_pattern">Confirm Your Pattern</string>
+    <string name="confirm_your_signature">Confirm Your Signature</string>
+    <string name="error_signature">Error: Signature do not match</string>
+    <string name="error_current_signature">Error: Current Signature do not match</string>
+    <string name="enter_your_signature">Enter Your Signature</string>
+    <string name="add_passcode">Add Passcode</string>
+    <string name="unsupported_device">Unsupported Device</string>
+    <string name="hardware_is_unavailable">Hardware Is Unavailable</string>
+    <string name="you_need_set_question">You Need Set Security Question</string>
+    <string name="wrong_answer">Wrong Answer, Please Try Again</string>
+    <string name="confirm_fingerprint_to_unlock_apps">Confirm Fingerprint To Unlock Apps</string>
+    <string name="use_pincode_to_unlock_app">Use Pincode To Unlock App.</string>
+    <string name="use_fingerprint_according_to_system_security">Use Fingerprint According To System Security</string>
+    <string name="your_phone_does_not_have_a_fingerprint_installed_Please_set_fingerprint_to_use_this_feature">Your phone does not have a fingerprint installed. Please set fingerprint to use this feature.</string>
+    <string name="fingerprint_state_scanning">Touch sensor</string>
+    <string name="fingerprint_state_success">Fingerprint recognized</string>
+    <string name="fingerprint_state_failure">Fingerprint not recognized.\nTry again.</string>
+    <string name="fingerprint_cancel">Cancel</string>
+    <string name="fingerprint_use_password">Use Password</string>
+    <string name="fingerprint_icon_description">Fingerprint icon</string>
+    <string name="what_is_your_favorite_color">1. What is your favorite color?</string>
+    <string name="what_was_your_childhood_home_name">2. What was your childhood home name?</string>
+    <string name="note_security_question_is_set_only_once_check_carefully_before_use">Note: Security question is set only once, \ncheck carefully before use.</string>
+    <string name="question_settings">Question Settings</string>
+    <string name="you_cant_empty_text">You Can\'t Empty Text</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="confirm_security_question_to_change_password">Confirm security question to change password</string>
+    <string name="the_answer_is_not_correct_you_can_contact_us_via_our_mail_for_support">The answer is not correct. \nYou can contact us via our Gmail for support!</string>
+
+    <string name="password_confirm">Confirm</string>
+    <string name="password_cancel">Cancel</string>
+    <string name="password_incorrect">Incorrect Password</string>
+    <string name="you_need_set_a_pin_code">You need set a Pin code</string>
+    <string name="you_need_set_a_pattern">You need set a Pattern</string>
+    <string name="current_passcode_is_pincode">Current Passcode is Pincode. Do you want change passcode to Pattern?</string>
+    <string name="current_passcode_is_pattern">Current Passcode is Pattern. Do you want change passcode to Pincode?</string>
+    <string name="current_passcode_is_none">Current Passcode is not Pincode or Pattern. Do you want change passcode?</string>
+    <string name="no_passcode_setting_do_you_want_to_create_a_passcode">No passcode setting. Do you want to create a passcode?</string>
+
+    <string name="password_title">Password</string>
+    <string name="password_message">You need to enter your password because a new fingerprint was added</string>
+    <string name="fingerPrint_error_none_enrolled">FingerPrint Error None Enrolled</string>
+    <string name="cant_open_security_setting">Can\'t open security setting</string>
+    <string name="click_here">Click Here</string>
+
+    //notification
+    <string name="turn_on_notifications_to_remind_you_every_day">Turn On Notifications To Remind You EveryDay</string>
+    <string name="set_your_time">Set Your Time</string>
+    <string name="set_your_title">Set Your Title</string>
+    <string name="hint_time">09:00</string>
+    <string name="write_somethings">Write Somethings</string>
+    <string name="write_a_diary_for_today">Write a diary for today</string>
+    <string name="cant_title_blank">Can\'t title blank!</string>
+    <string name="channel_name">remi_notify</string>
+    <string name="channel_description">This is notify diary</string>
+    <string name="time_is_not_in_the_correct_format">Time is not in the correct format</string>
+
+    //Menu
+    <string name="change_theme">Change Theme</string>
+    <string name="menu_0">Set Your Passcode</string>
+    <string name="menu_1">Change Passcode</string>
+    <string name="menu_2">Custom Theme Lock Screen</string>
+    <string name="menu_3">Notification</string>
+    <string name="menu_4">Widget</string>
+    <string name="menu_5">Change Cover</string>
+    <string name="menu_6">Rating 5 Stars</string>
+    <string name="menu_7">Download Other Apps</string>
+    <string name="menu_8">Instagram</string>
+    <string name="menu_9">Facebook</string>
+    <string name="menu_10">Feedback</string>
+    <string name="menu_11">Privacy Policy</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="choose_widget">Choose Diary</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="add_widget_success">Added to home screen successfully</string>
+
+
+    <string name="you_cannot_clear_data_because_it_contains_your_logs_you_can_clear_cache_to_free_it_up">You cannot clear Data because it contains your logs. \nYou can clear cache to free it up.</string>
+
+    //HelpWidget
+    <string name="help">Help</string>
+    <string name="step_1">Touch and hold on empty space on your home screen</string>
+    <string name="step_2">Tap widget</string>
+    <string name="step_3">Tap And Hold Widget For Android app to use</string>
+    <string name="download">Download</string>
+    <string name="downloading">Downloading…</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="configure">Configure</string>
+    <string name="view_diary">View Diary</string>
+    <string name="open_the_diary_you_pinned_in_the_widget">Open the diary you pinned in the widget</string>
+    <string name="custom_widget">Custom Widget</string>
+    <string name="select_the_diary_to_display_on_the_widget">Select the diary you want to display on the widget</string>
+    <string name="you_need_create_a_diary_to_display_on_the_widget">You need create a diary to display on the widget</string>
+    <string name="gallery">Gallery</string>
+</resources>

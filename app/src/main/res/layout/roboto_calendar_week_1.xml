@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:layout_margin="@dimen/_2sdp"
+    android:orientation="horizontal"
+    android:tag="weekRow1"
+    android:weightSum="7">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:tag="dayOfMonthContainer1">
+
+        <com.note.mydiary.diarywithlock.journalwithlock.customview.CustomCalendar.DayView
+            android:layout_width="@dimen/minDayCellWidth"
+            android:layout_height="@dimen/minDayCellHeight"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/poppins_medium"
+            android:layout_margin="@dimen/_2sdp"
+            android:gravity="center"
+            android:tag="dayOfMonthText1"
+            android:textSize="@dimen/_10ssp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:tag="dayOfMonthContainer2">
+
+
+        <com.note.mydiary.diarywithlock.journalwithlock.customview.CustomCalendar.DayView
+            android:layout_width="@dimen/minDayCellWidth"
+            android:layout_height="@dimen/minDayCellHeight"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/poppins_medium"
+            android:layout_margin="@dimen/_2sdp"
+            android:gravity="center"
+            android:tag="dayOfMonthText2"
+            android:textSize="@dimen/_10ssp" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:tag="dayOfMonthContainer3">
+
+
+        <com.note.mydiary.diarywithlock.journalwithlock.customview.CustomCalendar.DayView
+            android:layout_width="@dimen/minDayCellWidth"
+            android:layout_height="@dimen/minDayCellHeight"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/poppins_medium"
+            android:layout_margin="@dimen/_2sdp"
+            android:gravity="center"
+            android:tag="dayOfMonthText3"
+            android:textSize="@dimen/_10ssp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:tag="dayOfMonthContainer4">
+
+        <com.note.mydiary.diarywithlock.journalwithlock.customview.CustomCalendar.DayView
+            android:layout_width="@dimen/minDayCellWidth"
+            android:layout_height="@dimen/minDayCellHeight"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/poppins_medium"
+            android:layout_margin="@dimen/_2sdp"
+            android:gravity="center"
+            android:tag="dayOfMonthText4"
+            android:textSize="@dimen/_10ssp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:tag="dayOfMonthContainer5">
+
+        <com.note.mydiary.diarywithlock.journalwithlock.customview.CustomCalendar.DayView
+            android:layout_width="@dimen/minDayCellWidth"
+            android:layout_height="@dimen/minDayCellHeight"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/poppins_medium"
+            android:layout_margin="@dimen/_2sdp"
+            android:gravity="center"
+            android:tag="dayOfMonthText5"
+            android:textSize="@dimen/_10ssp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:tag="dayOfMonthContainer6">
+
+        <com.note.mydiary.diarywithlock.journalwithlock.customview.CustomCalendar.DayView
+            android:layout_width="@dimen/minDayCellWidth"
+            android:layout_height="@dimen/minDayCellHeight"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/poppins_medium"
+            android:layout_margin="@dimen/_2sdp"
+            android:gravity="center"
+            android:tag="dayOfMonthText6"
+            android:textSize="@dimen/_10ssp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:tag="dayOfMonthContainer7">
+
+        <com.note.mydiary.diarywithlock.journalwithlock.customview.CustomCalendar.DayView
+            android:layout_width="@dimen/minDayCellWidth"
+            android:layout_height="@dimen/minDayCellHeight"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/poppins_medium"
+            android:layout_margin="@dimen/_2sdp"
+            android:gravity="center"
+            android:tag="dayOfMonthText7"
+            android:textSize="@dimen/_10ssp" />
+    </RelativeLayout>
+</LinearLayout>

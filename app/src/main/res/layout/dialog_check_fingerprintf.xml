@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginStart="@dimen/_20sdp"
+    android:layout_marginEnd="@dimen/_20sdp"
+    android:background="@drawable/boder_dialog"
+    android:orientation="vertical"
+    android:padding="@dimen/_10sdp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:padding="@dimen/_10sdp"
+        android:fontFamily="@font/poppins_regular"
+        android:text="@string/confirm_fingerprint_to_unlock_apps"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_11ssp" />
+
+    <TextView
+        android:id="@+id/tvError"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/poppins_regular"
+        android:text="@string/wrong_password_please_try_again"
+        android:textColor="@color/red"
+        android:textSize="@dimen/_8ssp" />
+
+    <com.note.mydiary.diarywithlock.journalwithlock.activity.addview.viewnavigation.viewpasscode.viewfingerprint.view.Fingerprint
+        android:id="@+id/fingerprint"
+        android:layout_width="@dimen/_134sdp"
+        android:layout_height="@dimen/_134sdp"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/tvUnlock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:textColor="@color/text_check_fingerprint"
+        android:textSize="@dimen/_10ssp" />
+</LinearLayout>

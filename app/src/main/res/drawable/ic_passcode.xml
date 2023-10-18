@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="30dp"
+    android:height="30dp"
+    android:viewportWidth="30"
+    android:viewportHeight="30">
+    <path
+        android:name="passcode1"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M0 8c0-4.42 3.58-8 8-8h14c4.42 0 8 3.58 8 8v14c0 4.42-3.58 8-8 8h-14c-4.42 0-8-3.58-8-8z" />
+    <path
+        android:name="passcode2"
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M18.64 25.21c0-0.43-0.35-0.78-0.78-0.78H15.5v-2.36h2.36c0.43 0 0.78-0.35 0.78-0.78 0-0.44-0.35-0.79-0.78-0.79H15.5v-7.14c2.57-0.43 4.3-2.87 3.86-5.43-0.43-2.57-2.87-4.3-5.43-3.86-2.57 0.43-4.3 2.86-3.86 5.43 0.33 1.98 1.88 3.53 3.86 3.86v11.85c0 0.44 0.35 0.79 0.78 0.79h3.15c0.43 0 0.78-0.35 0.78-0.79Zm-7.07-16.5c0-1.73 1.4-3.13 3.14-3.13 1.74 0 3.15 1.4 3.15 3.14 0 1.73-1.41 3.14-3.15 3.14-1.73 0-3.14-1.4-3.14-3.14Z" />
+</vector>

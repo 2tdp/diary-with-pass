@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="78dp"
+    android:height="18dp"
+    android:viewportWidth="78"
+    android:viewportHeight="18">
+    <path
+        android:name="wave1"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M0.68 6.76c0-0.13 0.05-0.26 0.15-0.35 0.09-0.09 0.22-0.15 0.35-0.15h0c0.28 0 0.5 0.22 0.5 0.5v4.48c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave2"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M40.68 6.76c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v4.48c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave3"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M4.68 7.54c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v2.91c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave4"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M44.68 7.54c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v2.91c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave5"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M8.68 5.2c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v7.61c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave6"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M48.68 5.2c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v7.61c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave7"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M12.68 6.76c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v4.48c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave8"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M52.68 6.76c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v4.48c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave9"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M16.68 2.85c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v12.3c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave10"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M56.68 2.85c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v12.3c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave11"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M20.68 1.28c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v15.43c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave12"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M60.68 1.28c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v15.43c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave13"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M24.68 3.63c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v10.74c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave14"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M64.68 3.63c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v10.74c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave15"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M28.68 0.5c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v17c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave16"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M68.68 0.5c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v17c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave17"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M32.68 7.54c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v2.91c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave18"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M72.68 7.54c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v2.91c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave19"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M36.68 5.2c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v7.61c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+    <path
+        android:name="wave20"
+        android:fillColor="#FFFFAF7D"
+        android:pathData="M76.68 5.2c0-0.28 0.22-0.5 0.5-0.5h0c0.28 0 0.5 0.22 0.5 0.5v7.61c0 0.28-0.22 0.5-0.5 0.5h0c-0.28 0-0.5-0.22-0.5-0.5z" />
+</vector>

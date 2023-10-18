@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:paddingTop="@dimen/_5sdp">
+
+    <TextView
+        android:layout_width="@dimen/minDayCellWidth"
+        android:layout_height="@dimen/minDayCellHeight"
+        android:layout_weight="1"
+        android:fontFamily="@font/poppins_regular"
+        android:gravity="center"
+        android:tag="dayOfWeek1"
+        android:textSize="@dimen/_13ssp" />
+
+    <TextView
+        android:layout_width="@dimen/minDayCellWidth"
+        android:layout_height="@dimen/minDayCellHeight"
+        android:layout_weight="1"
+        android:fontFamily="@font/poppins_regular"
+        android:gravity="center"
+        android:tag="dayOfWeek2"
+        android:textSize="@dimen/_13ssp" />
+
+    <TextView
+        android:layout_width="@dimen/minDayCellWidth"
+        android:layout_height="@dimen/minDayCellHeight"
+        android:layout_weight="1"
+        android:fontFamily="@font/poppins_regular"
+        android:gravity="center"
+        android:tag="dayOfWeek3"
+        android:textSize="@dimen/_13ssp" />
+
+    <TextView
+        android:layout_width="@dimen/minDayCellWidth"
+        android:layout_height="@dimen/minDayCellHeight"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:tag="dayOfWeek4"
+        android:textSize="@dimen/_13ssp" />
+
+    <TextView
+        android:layout_width="@dimen/minDayCellWidth"
+        android:layout_height="@dimen/minDayCellHeight"
+        android:layout_weight="1"
+        android:fontFamily="@font/poppins_regular"
+        android:gravity="center"
+        android:tag="dayOfWeek5"
+        android:textSize="@dimen/_13ssp" />
+
+    <TextView
+        android:layout_width="@dimen/minDayCellWidth"
+        android:layout_height="@dimen/minDayCellHeight"
+        android:layout_weight="1"
+        android:fontFamily="@font/poppins_regular"
+        android:gravity="center"
+        android:tag="dayOfWeek6"
+        android:textSize="@dimen/_13ssp" />
+
+    <TextView
+        android:layout_width="@dimen/minDayCellWidth"
+        android:layout_height="@dimen/minDayCellHeight"
+        android:layout_weight="1"
+        android:fontFamily="@font/poppins_regular"
+        android:gravity="center"
+        android:tag="dayOfWeek7"
+        android:textSize="@dimen/_13ssp" />
+</LinearLayout>

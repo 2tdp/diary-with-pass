@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545189828771",
+    "project_id": "diary-gbb",
+    "storage_bucket": "diary-gbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545189828771:android:66f7701653ea74b021c716",
+        "android_client_info": {
+          "package_name": "com.note.mydiary.diarywithlock.journalwithlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545189828771-od0arvob2jiav7u8p5b37fs2756lt3vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs53dDhKPVTkEuHHNf7RA1Vi8U-8c5Vmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545189828771-od0arvob2jiav7u8p5b37fs2756lt3vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
